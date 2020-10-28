@@ -541,17 +541,11 @@ h2 {
     margin: 0.4em;
 }
 /*Narrow the login form*/
-#loginPage .readOnlyContent, #loginPage form {
-  max-width: 22em;
-}
+#loginPage .readOnlyContent, #loginPage form {max-width: 22em;}
 
 /*Hide "please login" text, margin is to prevent login form moving too far up*/
-#loginPage h1 {
-  display: none;
-}
-#loginPage .padded-left.padded-right.padded-bottom-page {
-  margin-top: 50px;
-}
+#loginPage h1 {display: none;}
+#loginPage .padded-left.padded-right.padded-bottom-page {margin-top: 50px;}
 /*Login background*/
 #loginPage {
   background: url(https://i.imgur.com/p6kvChk.png) !important;
