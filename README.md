@@ -47,6 +47,6 @@ This is based off the theme from @prayag17
   <br>
 Download His Below Skin Below
   <br>
-[JellySkin Download](https://github.com/prayag17/JellySkin/blob/master/README.md "Download Jellyskin")
+[JellySkin Download]https://github.com/prayag17/JellySkin/blob/master/README.md
 Thank you to all contributors
 </div>
