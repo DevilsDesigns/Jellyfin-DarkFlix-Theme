@@ -14,7 +14,7 @@ This is Jellyfin Netflix Dark theme with Netflix Sans are used as the default fo
 <h3>How to Install</h4><div align="center">
   To use just copy this CSS file contents at the below link into Jellyfin ======> Dashboard ======>General ======> Custom CSS Box 
 
-[Jellyfin Netflix Dark Theme](https://https://github.com/DevilsDesigns/JellySkin/blob/master/default.css "Custom CSS")
+[Jellyfin Netflix Dark Theme](https://github.com/DevilsDesigns/Jellyfin-Netflix-Dark/blob/main/default.css "Custom CSS")
 </div>
 <br>
 <br>
