@@ -14,28 +14,28 @@
 <h3>Whats Included?</h3>
  
  
- - Use 67% or 70% zoom in web browser for better experience <br>
+ Use 67% or 70% zoom in web browser for better experience <br>
  
  
- - Netflix UI Hovering Effects<br>
+ Netflix UI Hovering Effects<br>
  
  
- - Red and Black Themed to match<br>
+ Red and Black Themed to match<br>
  
  
- - based of the Jellyskin Base<br>
+ based of the Jellyskin Base<br>
  
  
- - Popout Player<br>
+ Popout Player<br>
  
  
- - Solid Background<br>
+ Solid Background<br>
  
  
- - Custom Login Page
+ Custom Login Page
  
  
-  - Custom Highlights& much more></div>
+ Custom Highlights& much more></div>
   
   
 This is Jellyfin Netflix Dark theme with Netflix Sans are used as the default fonts but if it is not applied in every area then please make a new issue.
