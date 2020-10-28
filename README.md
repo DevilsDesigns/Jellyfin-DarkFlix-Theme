@@ -1,9 +1,9 @@
 <div align="center">
 <h1>Jellyfin Netflix Dark Theme</h1>
-<h2>The Best Netflix Dark Theme for Jellyfin Around!</h2>
-<h2>This uses Netflix Sans from the official netflix CSS. If I am violating any copyright agrement then please don't ban this repo but make an issue for it.</h2>
-  <h3>Use 67% or 70% zoom in web browser for better experience</h3> 
+<h3>The Best Netflix Dark Theme for Jellyfin Around!</h2>
+<h3>This uses Netflix Sans from the official netflix CSS. If I am violating any copyright agrement then please don't ban this repo but make an issue for it.</h2>
 <h4>Warning: This css is only for Jellyfin 10.6.X.<br>
+Use 67% or 70% zoom in web browser for better experience
 Note: Finally!! This CSS is fully supported now in Firefox and other browsers, but it may not have the blur features instead it would be barkened as firefox doesn't have backdrop-filter CSS tag supported, to use that you might have to manually enable the backdrop filter. I have given a way at the bottom.</h4>
 </div>
 <br>
