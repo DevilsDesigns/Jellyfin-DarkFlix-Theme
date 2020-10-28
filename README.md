@@ -1,5 +1,5 @@
 <div align="center">
-<h1>Jellyfin Netflix Dark Theme</h1>
+<h1>Jellyfin Netflix Dark Theme</h1><br>
 <h3>The Best Netflix Dark Theme for Jellyfin Around!</h3>
 <h4>This uses Netflix Sans from the official netflix CSS. If I am violating any copyright agrement then please don't ban this repo but make an issue for it.</h4>
 <h4>Warning: This css is only for Jellyfin 10.6.X.<br>
@@ -7,7 +7,7 @@ Note: Finally!! This CSS is fully supported now in Firefox and other browsers, b
   <h4>*This is still a WIP. So please know that ahead of time*</h4>
 </div>
 <div align="center">
-<h3>Whats Included?</h3>
+<h3>Whats Included?</h3><br>
 
 <h4>Use 67% or 70% zoom in web browser for better experience <br>
 Netflix UI Hovering Effects<br>
