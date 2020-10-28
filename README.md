@@ -46,6 +46,6 @@ This is Jellyfin Netflix Dark theme with Netflix Sans are used as the default fo
 <h4>Contributor</h4><br><br>
   This is based off the theme from @prayag17<br> 
   Download His Below Skin Below<br>
-  [JellySkin](https://github.com/prayag17/JellySkin/blob/master/README.md)<br>
+  [JellySkin](https://github.com/prayag17/JellySkin/ "Download Jellyskin")<br>
   Thank you to all contributors
 </div>
