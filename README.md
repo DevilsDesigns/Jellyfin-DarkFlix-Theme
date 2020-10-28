@@ -1,14 +1,12 @@
 <div align="center"> 
 <img src="https://github.com/DevilsDesigns/Jellyfin-DarkFlix-Theme/blob/main/DarkFlix-Logo.png?raw=true" height="154" width="914">
 
-<h2>Presents </h2>
+<h2>Presented by</h2>
 
 
 <img src="https://github.com/DevilsDesigns/Jellyfin-DarkFlix-Theme/blob/main/Logos/DevilsDesigns-Logo-Github.png?raw=true" height="75" width="500">
 
-<h1>Jellyfin DarkFlix Theme</h1>
-<h3>The Best Netflix Dark Theme for Jellyfin Around!</h3><br>
-</div>
+
 <div align="center">
 <h4>
  
