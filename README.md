@@ -1,5 +1,10 @@
-<div align="center">
-<h1>Jellyfin Netflix Dark Theme</h1>
+<div align="center"> 
+<img src="https://github.com/DevilsDesigns/Jellyfin-DarkFlix-Theme/blob/main/Logos/DevilsDesigns-Logo-Github.png?raw=true">
+
+<img src="https://fontmeme.com/permalink/201028/fa0ef1541b1d790f8ab0b7bb564aaf5e.png?raw=true">
+
+
+<h1>Jellyfin DarkFlix Theme</h1>
 <h3>The Best Netflix Dark Theme for Jellyfin Around!</h3><br>
 </div>
 <div align="center">
@@ -67,7 +72,7 @@ This is Jellyfin Netflix Dark theme with Netflix Sans are used as the default fo
 To use just copy this CSS file contents at the below link into Jellyfin ======> Dashboard ======>General ======> Custom CSS Box 
 
 
-[Jellyfin Netflix Dark Theme](https://github.com/DevilsDesigns/Jellyfin-Netflix-Dark/blob/main/default.css "Custom CSS")
+[Jellyfin DarkFlix Theme](https://github.com/DevilsDesigns/Jellyfin-DarkFlix-Theme/blob/main/default.css "Custom CSS")
 </div>
 
 
@@ -76,11 +81,11 @@ To use just copy this CSS file contents at the below link into Jellyfin ======> 
  
  
  <h3>Login Page</h3><br>
-  <img src="https://github.com/DevilsDesigns/Jellyfin-Netflix-Dark/blob/main/UI-Proof/custom%20Jellyfin%20Homepage.png?raw=true">
+  <img src="https://github.com/DevilsDesigns/Jellyfin-DarkFlix-Theme/blob/main/UI-Proof/custom%20Jellyfin%20Homepage.png?raw=true">
  
  
  <h3>UI</h3><br>
-  <img src="https://github.com/DevilsDesigns/Jellyfin-Netflix-Dark/blob/main/UI-Proof/Netflix%20Dark%20Mode%20Theme.gif?raw=true">
+  <img src="https://github.com/DevilsDesigns/Jellyfin-DarkFlix-Theme/blob/main/UI-Proof/Netflix%20Dark%20Mode%20Theme.gif?raw=true">
  
  
  <h3> Video Player UI</h3><br>  
