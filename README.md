@@ -87,7 +87,7 @@ To use just copy this CSS file contents at the below link into Jellyfin ======> 
   <img src="https://github.com/DevilsDesigns/Jellyfin-Netflix-Dark/blob/main/UI-Proof/Netflix%20Dark%20mode%20Theme%202.gif?raw=tr111ue">
  
  
- <h3>Popout Player</h3><br>
+ <h3>Popout Player & Background UI</h3><br>
  
  
   <img src="https://github.com/DevilsDesigns/Jellyfin-Netflix-Dark/blob/main/UI-Proof/Netflix%20Dark%20Mode%20Theme%203.gif?raw=true">
