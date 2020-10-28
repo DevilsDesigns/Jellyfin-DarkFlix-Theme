@@ -33,19 +33,19 @@ This is Jellyfin Netflix Dark theme with Netflix Sans are used as the default fo
 <br>
 <div align="center">
 <h3 align="ceter" class="animations">What the UI Looks Like</h3><br>
-  <h3>Login Page</h3>
+  <h3>Login Page</h3><br>
   <img src="https://github.com/DevilsDesigns/Jellyfin-Netflix-Dark/blob/main/UI-Proof/custom%20Jellyfin%20Homepage.png?raw=true">
-  <h3>UI</h3>
-  <img src="https://github.com/DevilsDesigns/Jellyfin-Netflix-Dark/blob/main/UI-Proof/Netflix%20Dark%20Mode%20Theme.gif?raw=true">  
+  <h3>UI</h3><br>
+  <img src="https://github.com/DevilsDesigns/Jellyfin-Netflix-Dark/blob/main/UI-Proof/Netflix%20Dark%20Mode%20Theme.gif?raw=true"><br>  
   <img src="https://github.com/DevilsDesigns/Jellyfin-Netflix-Dark/blob/main/UI-Proof/Netflix%20Dark%20mode%20Theme%202.gif?raw=tr111ue">
-  <h3>Popout Player</h3>
+  <h3>Popout Player</h3><br>
   <img src="https://github.com/DevilsDesigns/Jellyfin-Netflix-Dark/blob/main/UI-Proof/Netflix%20Dark%20Mode%20Theme%203.gif?raw=true">
 </div>
 <br>
 <div align="center">
-<h5>Contributor</h5><br><br>
+<h4>Contributor</h4><br><br>
   This is based off the theme from @prayag17<br> 
   Download His Below Skin Below<br>
-  [JellySkin](https://github.com/prayag17/JellySkin)<br>
+  [JellySkin](https://github.com/prayag17/JellySkin/blob/master/README.md)<br>
   Thank you to all contributors
 </div>
