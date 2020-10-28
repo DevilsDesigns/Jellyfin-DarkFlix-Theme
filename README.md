@@ -21,29 +21,29 @@ Note: Finally!! This CSS is fully supported now in Firefox and other browsers, b
   - Solid Background<br>
   - Custom Login Page <br>
   - Custom Highlights& much more></div>
-<br>
-<br>
+  <br>
 This is Jellyfin Netflix Dark theme with Netflix Sans are used as the default fonts but if it is not applied in every area then please make a new issue.
 <br>
-<br>
 <div align="center">
-<h3>How to Install</h4><div align="center">
+<h3>How to Install</h3><div align="center">
   To use just copy this CSS file contents at the below link into Jellyfin ======> Dashboard ======>General ======> Custom CSS Box 
 
 [Jellyfin Netflix Dark Theme](https://github.com/DevilsDesigns/Jellyfin-Netflix-Dark/blob/main/default.css "Custom CSS")
 </div>
 <br>
-<br>
 <div align="center">
 <h3 align="ceter" class="animations">What the UI Looks Like</h3><br>
   <h4>Login Page</h4>
   <img src="https://github.com/DevilsDesigns/Jellyfin-Netflix-Dark/blob/main/UI-Proof/custom%20Jellyfin%20Homepage.png?raw=true">
-  <img src="https://github.com/DevilsDesigns/Jellyfin-Netflix-Dark/blob/main/UI-Proof/Netflix%20Dark%20Mode%20Theme.gif?raw=true">
-  <img src="https://github.com/DevilsDesigns/Jellyfin-Netflix-Dark/blob/main/UI-Proof/Netflix%20Dark%20mode%20Theme%202.gif?raw=true">
+  <h4>UI</h4>
+  <img src="https://github.com/DevilsDesigns/Jellyfin-Netflix-Dark/blob/main/UI-Proof/Netflix%20Dark%20Mode%20Theme.gif?raw=true">  
+  <img src="https://github.com/DevilsDesigns/Jellyfin-Netflix-Dark/blob/main/UI-Proof/Netflix%20Dark%20mode%20Theme%202.gif?raw=tr111ue">
+  <h4>Popout Player</h4>
   <img src="https://github.com/DevilsDesigns/Jellyfin-Netflix-Dark/blob/main/UI-Proof/Netflix%20Dark%20Mode%20Theme%203.gif?raw=true">
-</div><br>
+</div>
+<br>
 <div align="center">
-<h5>Contributor <h5><br><br>
+<h5>Contributor</h5><br><br>
   This is based off the theme from @prayag17<br> 
   Download His Below Skin Below<br>
   [JellySkin](https://github.com/prayag17/JellySkin)<br>
