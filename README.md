@@ -1,7 +1,7 @@
 <div align="center"> 
 <img src="https://github.com/DevilsDesigns/Jellyfin-DarkFlix-Theme/blob/main/Logos/DevilsDesigns-Logo-Github.png?raw=true">
 
-<img src="https://fontmeme.com/permalink/201028/fa0ef1541b1d790f8ab0b7bb564aaf5e.png?raw=true">
+<img src="https://github.com/DevilsDesigns/Jellyfin-DarkFlix-Theme/blob/main/DarkFlix-Logo.png?raw=true">
 
 
 <h1>Jellyfin DarkFlix Theme</h1>
