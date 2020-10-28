@@ -4,9 +4,9 @@
 </div>
 <div align="center">
 <h4>**This is still a WIP. So please know that ahead of time**</h4>
-**This uses Netflix Sans from the official netflix CSS. If I am violating any copyright agrement then please don't ban this repo but make an issue for it.
-Warning: This css is only for Jellyfin 10.6.X.<br>
-Note: Finally!! This CSS is fully supported now in Firefox and other browsers, but it may not have the blur features instead it would be barkened as firefox doesn't have backdrop-filter CSS tag supported, to use that you might have to manually enable the backdrop filter. I have given a way at the bottom.**
+  **This uses Netflix Sans from the official netflix CSS. If I am violating any copyright agrement then please don't ban this repo but make an issue for it.
+  Warning: This css is only for Jellyfin 10.6.X.<br>
+  Note: Finally!! This CSS is fully supported now in Firefox and other browsers, but it may not have the blur features instead it would be barkened as firefox doesn't have backdrop-filter CSS tag supported, to use that you might have to manually enable the backdrop filter. I have given a way at the bottom.**
 </div>
 <br>
 <div align="center">
@@ -40,12 +40,10 @@ This is Jellyfin Netflix Dark theme with Netflix Sans are used as the default fo
   <h3>Popout Player</h3><br>
   <img src="https://github.com/DevilsDesigns/Jellyfin-Netflix-Dark/blob/main/UI-Proof/Netflix%20Dark%20Mode%20Theme%203.gif?raw=true">
 </div>
-<br>
+<br>  
 <div align="center">
-<h4>Contributor</h4><br>
-This is based off the theme from [@prayag17](https://github.com/prayag17)  
-  <br>  
-Download His Below Skin Below <br> [JellySkin Download](https://github.com/prayag17/JellySkin/blob/master/default.css)
-<br>
-  Thank you to all contributors
+<h4>Contributor</h4>    
+  This is based off the theme from [@prayag17](https://github.com/prayag17)    
+  Download His Below Skin Below <br> [JellySkin Download](https://github.com/prayag17/JellySkin/blob/master/default.css)  
+  Thank you to all contributors  
 </div>
