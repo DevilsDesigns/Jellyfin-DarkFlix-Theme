@@ -40,9 +40,10 @@ This is Jellyfin Netflix Dark theme with Netflix Sans are used as the default fo
 <img src="https://github.com/DevilsDesigns/Jellyfin-Netflix-Dark/blob/main/UI-Proof/Netflix%20Dark%20mode%20Theme%202.gif?raw=true">
 <img src="https://github.com/DevilsDesigns/Jellyfin-Netflix-Dark/blob/main/UI-Proof/Netflix%20Dark%20Mode%20Theme%203.gif?raw=true">
 </div>
-
+<div align="center">
 <h5>Contributor <h5>
-This is based off the theme from @prayag17 Jellyskin
-Download His Below
-[JellySkin](https://github.com/DevilsDesigns/Jellyfin-Netflix-Dark/blob/main/default.css "Download")
+This is based off the theme from @prayag17 
+Download His Below Skin Below
+[JellySkin](https://github.com/prayag17/JellySkin)
 Thank you to all contributors
+</div>
