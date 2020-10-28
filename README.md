@@ -35,15 +35,15 @@ This is Jellyfin Netflix Dark theme with Netflix Sans are used as the default fo
 <br>
 <br>
 <div align="center">
-<h3 align="ceter" class="animations">What the UI Looks Like</h3>
+<h3 align="ceter" class="animations">What the UI Looks Like</h3><br>
   <h4>Login Page</h4>
   <img src="https://github.com/DevilsDesigns/Jellyfin-Netflix-Dark/blob/main/UI-Proof/custom%20Jellyfin%20Homepage.png?raw=true">
   <img src="https://github.com/DevilsDesigns/Jellyfin-Netflix-Dark/blob/main/UI-Proof/Netflix%20Dark%20Mode%20Theme.gif?raw=true">
   <img src="https://github.com/DevilsDesigns/Jellyfin-Netflix-Dark/blob/main/UI-Proof/Netflix%20Dark%20mode%20Theme%202.gif?raw=true">
   <img src="https://github.com/DevilsDesigns/Jellyfin-Netflix-Dark/blob/main/UI-Proof/Netflix%20Dark%20Mode%20Theme%203.gif?raw=true">
-</div>
+</div><br>
 <div align="center">
-<h5>Contributor <h5>
+<h5>Contributor <h5><br><br>
   This is based off the theme from @prayag17<br> 
   Download His Below Skin Below<br>
   [JellySkin](https://github.com/prayag17/JellySkin)<br>
