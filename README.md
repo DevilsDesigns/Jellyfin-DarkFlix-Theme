@@ -1,25 +1,27 @@
 <div align="center">
 <h1>Jellyfin Netflix Dark Theme</h1>
 <h3>The Best Netflix Dark Theme for Jellyfin Around!</h3>
-<h4>This uses Netflix Sans from the official netflix CSS. If I am violating any copyright agrement then please don't ban this repo but make an issue for it.</h4>
-<h4>Warning: This css is only for Jellyfin 10.6.X.<br>
-Note: Finally!! This CSS is fully supported now in Firefox and other browsers, but it may not have the blur features instead it would be barkened as firefox doesn't have backdrop-filter CSS tag supported, to use that you might have to manually enable the backdrop filter. I have given a way at the bottom. </h4>
-  <h4>*This is still a WIP. So please know that ahead of time*</h4>
+  </div>
+<br>
+<br>
+<div align="center">
+<h4>**This is still a WIP. So please know that ahead of time**</h4>
+**This uses Netflix Sans from the official netflix CSS. If I am violating any copyright agrement then please don't ban this repo but make an issue for it.
+Warning: This css is only for Jellyfin 10.6.X.<br>
+Note: Finally!! This CSS is fully supported now in Firefox and other browsers, but it may not have the blur features instead it would be barkened as firefox doesn't have backdrop-filter CSS tag supported, to use that you might have to manually enable the backdrop filter. I have given a way at the bottom.**
 </div>
-
+<br>
 <div align="center">
 <h3>Whats Included?</h3>
-<h4>Use 67% or 70% zoom in web browser for better experience <br>
-Netflix UI Hovering Effects
-Red and Black Themed to match
-based of the Jellyskin Base  
-Popout Player
-Solid Background
-Custom Highlights
-& much more
-</h4>
-
-</div>
+  - Use 67% or 70% zoom in web browser for better experience <br>
+  - Netflix UI Hovering Effects<br>
+  - Red and Black Themed to match<br>
+  - based of the Jellyskin Base<br>
+  - Popout Player<br>
+  - Solid Background<br>
+  - Custom Login Page <br>
+  - Custom Highlights& much more></div>
+<br>
 <br>
 This is Jellyfin Netflix Dark theme with Netflix Sans are used as the default fonts but if it is not applied in every area then please make a new issue.
 <br>
@@ -43,3 +45,4 @@ This is Jellyfin Netflix Dark theme with Netflix Sans are used as the default fo
 This is based off the theme from @prayag17 Jellyskin
 Download His Below
 [JellySkin](https://github.com/DevilsDesigns/Jellyfin-Netflix-Dark/blob/main/default.css "Download")
+Thank you to all contributors
