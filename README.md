@@ -1,5 +1,5 @@
 <div align="center"> 
-<img src="https://github.com/DevilsDesigns/Jellyfin-DarkFlix-Theme/blob/main/DarkFlix-Logo.png?raw=true" height="154" width="914">
+<img src="https://github.com/DevilsDesigns/Jellyfin-DarkFlix-Theme/blob/main/Logos/Darkflix-with-tagline.png?raw=true">
 
 <h2>Presented by</h2>
 
