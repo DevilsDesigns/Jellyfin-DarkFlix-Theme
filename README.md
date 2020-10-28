@@ -1,9 +1,7 @@
 <div align="center">
 <h1>Jellyfin Netflix Dark Theme</h1>
-<h3>The Best Netflix Dark Theme for Jellyfin Around!</h3>
-  </div>
-<br>
-<br>
+<h3>The Best Netflix Dark Theme for Jellyfin Around!</h3><br>
+</div>
 <div align="center">
 <h4>**This is still a WIP. So please know that ahead of time**</h4>
 **This uses Netflix Sans from the official netflix CSS. If I am violating any copyright agrement then please don't ban this repo but make an issue for it.
@@ -36,7 +34,8 @@ This is Jellyfin Netflix Dark theme with Netflix Sans are used as the default fo
   <h3>Login Page</h3><br>
   <img src="https://github.com/DevilsDesigns/Jellyfin-Netflix-Dark/blob/main/UI-Proof/custom%20Jellyfin%20Homepage.png?raw=true">
   <h3>UI</h3><br>
-  <img src="https://github.com/DevilsDesigns/Jellyfin-Netflix-Dark/blob/main/UI-Proof/Netflix%20Dark%20Mode%20Theme.gif?raw=true"><br>  
+  <img src="https://github.com/DevilsDesigns/Jellyfin-Netflix-Dark/blob/main/UI-Proof/Netflix%20Dark%20Mode%20Theme.gif?raw=true">
+  <br>  
   <img src="https://github.com/DevilsDesigns/Jellyfin-Netflix-Dark/blob/main/UI-Proof/Netflix%20Dark%20mode%20Theme%202.gif?raw=tr111ue">
   <h3>Popout Player</h3><br>
   <img src="https://github.com/DevilsDesigns/Jellyfin-Netflix-Dark/blob/main/UI-Proof/Netflix%20Dark%20Mode%20Theme%203.gif?raw=true">
