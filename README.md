@@ -52,9 +52,13 @@
  
  </div>
   
-  
+<div align="center">
+
+
 This is Jellyfin Netflix Dark theme with Netflix Sans are used as the default fonts but if it is not applied in every area then please make a new issue.
 
+
+</div>
 
 <div align="center">
 <h3>How to Install</h3><div align="center">
