@@ -33,12 +33,12 @@ This is Jellyfin Netflix Dark theme with Netflix Sans are used as the default fo
 <br>
 <div align="center">
 <h3 align="ceter" class="animations">What the UI Looks Like</h3><br>
-  <h4>Login Page</h4>
+  <h3>Login Page</h3>
   <img src="https://github.com/DevilsDesigns/Jellyfin-Netflix-Dark/blob/main/UI-Proof/custom%20Jellyfin%20Homepage.png?raw=true">
-  <h4>UI</h4>
+  <h3>UI</h3>
   <img src="https://github.com/DevilsDesigns/Jellyfin-Netflix-Dark/blob/main/UI-Proof/Netflix%20Dark%20Mode%20Theme.gif?raw=true">  
   <img src="https://github.com/DevilsDesigns/Jellyfin-Netflix-Dark/blob/main/UI-Proof/Netflix%20Dark%20mode%20Theme%202.gif?raw=tr111ue">
-  <h4>Popout Player</h4>
+  <h3>Popout Player</h3>
   <img src="https://github.com/DevilsDesigns/Jellyfin-Netflix-Dark/blob/main/UI-Proof/Netflix%20Dark%20Mode%20Theme%203.gif?raw=true">
 </div>
 <br>
