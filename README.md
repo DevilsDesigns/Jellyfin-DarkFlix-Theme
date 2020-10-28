@@ -45,7 +45,12 @@
  Custom Login Page
  
  
- Custom Highlights& much more></div>
+ Custom Highlights
+ 
+ 
+ & much more
+ 
+ </div>
   
   
 This is Jellyfin Netflix Dark theme with Netflix Sans are used as the default fonts but if it is not applied in every area then please make a new issue.
