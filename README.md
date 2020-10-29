@@ -81,7 +81,7 @@ To use just copy this CSS file contents at the below link into Jellyfin ======> 
  
  
  <h3>Login Page</h3><br>
-  <img src="https://github.com/DevilsDesigns/Jellyfin-DarkFlix-Theme/blob/main/UI-Proof/custom%20Jellyfin%20Homepage.png?raw=true">
+  <img src="https://github.com/DevilsDesigns/Jellyfin-DarkFlix-Theme/blob/main/UI-Proof/jellyfin-No-Text-Login.png?raw=true">
  
  
  <h3>UI</h3><br>
