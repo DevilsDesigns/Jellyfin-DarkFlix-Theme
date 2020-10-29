@@ -170,7 +170,7 @@ div[data-role="controlgroup"] a[data-role="button"]:last-child {
     box-shadow: 0 0 5px 1px black;
 }
 .actionSheetMenuItem:hover {
-    background-color: rgba(255, 255, 255, 1);
+    background-color: rgba(219, 0, 0, 0.2) !important;
 }
 .cardBox {
     background: rgba(18,18,18,1) !important;
@@ -199,11 +199,11 @@ div[data-role="controlgroup"] a[data-role="button"]:last-child {
 }	
 .raised {
   transition: transform .2s, background .2s; 
-  background:#d70000 !important;
+  background: #d70000 !important;
   border-radius: 5px !important;	
 }
 .navMenuOption.emby-button:hover{
-  background: #b70000 !important;
+  background: rgba(215, 0, 0, 1) !important;
   transform: scale(1.2);
   color: #fff;
 }
@@ -360,18 +360,18 @@ h2 {
 }
 /*Minimalistic play buttons*/
 .cardOverlayFab-primary {
-  background-color: #00000000;
+  background-color: #d70000;
   transistion: 8sec;
 }
 .cardOverlayButtonIcon {
-  background-color: #fff !important;
+  background-color: #d70000 !important;
 }
 .cardOverlayContainer {
-  background-color: rgba(215, 0, 0, 1) !important;
+  background-color: rgba(0, 0, 0, 0.7) !important;
 }
 /*Theme some dialogues*/
 .actionSheetMenuItem:hover {
-  background-color: #db0000 !important;
+  background-color: rgba(219, 0, 0, 0.2) !important;
 }
 .mainDrawer {
   background-color: rgba(18,18,18,1) !important;
@@ -541,11 +541,17 @@ h2 {
     margin: 0.4em;
 }
 /*Narrow the login form*/
-#loginPage .readOnlyContent, #loginPage form {max-width: 22em;}
+#loginPage .readOnlyContent, #loginPage form {
+  max-width: 22em;
+}
 
 /*Hide "please login" text, margin is to prevent login form moving too far up*/
-#loginPage h1 {display: none;}
-#loginPage .padded-left.padded-right.padded-bottom-page {margin-top: 50px;}
+#loginPage h1 {
+  display: none;
+}
+#loginPage .padded-left.padded-right.padded-bottom-page {
+  margin-top: 50px;
+}
 /*Login background*/
 #loginPage {
   background: url(https://i.imgur.com/p6kvChk.png) !important;
@@ -734,7 +740,7 @@ background: #a30000 !important;
     background-color: #fff !important;
 }
 .paper-icon-button-light:focus:not(:disabled) {
-    color: #fff !important;
+    color: #a30000 !important;
     background-color: #fff !important;
 }
 
@@ -754,10 +760,12 @@ background: #a30000 !important;
 }
 .sliderBubble,
 .mdl-slider::-webkit-slider-thumb {
-  background:#a30000 !important; }
+  background: #a30000 !important; 
+}
 
 .mdl-slider::-moz-range-thumb, .mdl-slider::-moz-range-progress {
-  background: #a30000 !important; }
+  background: #a30000 !important; 
+}
   
 .mdl-slider:focus::-webkit-slider-thumb {
   -webkit-box-shadow: 0 0 0 10px rgba(255, 0, 0, 0.26);
