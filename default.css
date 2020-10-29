@@ -170,7 +170,7 @@ div[data-role="controlgroup"] a[data-role="button"]:last-child {
     box-shadow: 0 0 5px 1px black;
 }
 .actionSheetMenuItem:hover {
-    background-color: rgba(219, 0, 0, 0.2) !important;
+    background-color: rgba(215, 0, 0, 1) !important;
 }
 .cardBox {
     background: rgba(18,18,18,1) !important;
@@ -371,7 +371,7 @@ h2 {
 }
 /*Theme some dialogues*/
 .actionSheetMenuItem:hover {
-  background-color: rgba(219, 0, 0, 0.2) !important;
+  background-color: rgba(215, 0, 0, 1) !important;
 }
 .mainDrawer {
   background-color: rgba(18,18,18,1) !important;
@@ -781,10 +781,10 @@ background: #a30000 !important;
   background-color: #fff !important;
 }
 .emby-tab-button.show-focus:focus, .emby-tab-button:hover {
-  color: #d70000;
+  color: #d70000 !important;
 }
 .button-flat:hover, .button-link {
-  color: #d70000;
+  color: #d70000 !important;
 }
 /*Red Check Boxes*/
 .emby-checkbox:checked+span+span+.checkboxOutline {
