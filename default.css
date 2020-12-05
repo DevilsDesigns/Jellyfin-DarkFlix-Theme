@@ -770,7 +770,8 @@ background: #a30000 !important;
 .mdl-slider:focus::-webkit-slider-thumb {
   -webkit-box-shadow: 0 0 0 10px rgba(255, 0, 0, 0.26);
   box-shadow: 0 0 0 10px rgba(255, 0, 0, 0.26) !important; }
- *{
+}
+*{
   scrollbar-width: thin;
   scrollbar-color: #a30000 #202020;
 }
