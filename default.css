@@ -1,3 +1,9 @@
+/* fixed height for the bottom row */
+:root {
+  --element-fixed-top: 95px;
+  --swiper-theme-color: #d70000;
+  --rounding: 10px;
+}
 /*Fonts */
 @font-face{
   font-family:'Netflix Sans';
@@ -60,9 +66,7 @@ video:cue {
     font-size: 88.54% !important;
     text-shadow: 0px 0px 8px rgba(0, 0, 0, 1) !important;
 }
-/*Setting border Radius*/
 
-:root {--rounding: 10px;}
 /*Rounded corners on pretty much everything-Source Monochromic*/
 .formDialogHeader {
   border-top-left-radius: var(--rounding);
@@ -73,7 +77,7 @@ video:cue {
   border-bottom-right-radius: var(--rounding);
 }
 .cardOverlayContainer {
-	border-radius: var(--rounding) !important;
+  border-radius: var(--rounding) !important;
 }
 .toast,
 .paperList,
@@ -88,7 +92,6 @@ video:cue {
 .cardContent-shadow, 
 .itemDetailImage, 
 .cardOverlayButton-hover,
-.cardImageContainer,
 .cardPadder,
 .listItemImage,
 .listItemImageButton,
@@ -129,12 +132,12 @@ video:cue {
 }
 
 div[data-role="controlgroup"] a[data-role="button"]:first-child {
-	border-bottom-left-radius: var(--rounding);
-	border-top-left-radius: var(--rounding);
+  border-bottom-left-radius: var(--rounding);
+  border-top-left-radius: var(--rounding);
 }
 div[data-role="controlgroup"] a[data-role="button"]:last-child {
-	border-bottom-right-radius: var(--rounding);
-	border-top-right-radius: var(--rounding);
+  border-bottom-right-radius: var(--rounding);
+  border-top-right-radius: var(--rounding);
 }
 /*fixing Poster Margin*/
 .itemsContainer>.card>.cardBox {
@@ -161,6 +164,7 @@ div[data-role="controlgroup"] a[data-role="button"]:last-child {
     -webkit-backdrop-filter: blur(50px);
     text-shadow: 0 0 5px black;
 }
+
 .emby-select-withcolor  {
     border: .07em solid #a30000 !important;
 }
@@ -196,11 +200,11 @@ div[data-role="controlgroup"] a[data-role="button"]:last-child {
 }
 .button-flat {
   border-radius: 5px !important;
-}	
+} 
 .raised {
   transition: transform .2s, background .2s; 
   background: #d70000 !important;
-  border-radius: 5px !important;	
+  border-radius: 5px !important;  
 }
 .navMenuOption.emby-button:hover{
   background: rgba(215, 0, 0, 1) !important;
@@ -254,15 +258,7 @@ select {
     backdrop-filter: blur(50px) !important;
     -webkit-backdrop-filter: blur(50px);
     text-shadow: 0 0 5px black !important;
-}
-.skinHeader.focuscontainer-x.skinHeader-withBackground.skinHeader-blurred {
-    background: none;
-    background-color: rgba(18,18,18,1);
-    text-shadow: 0 0 5px black;
-    backdrop-filter: blur(60px) !important;
-    -webkit-backdrop-filter: blur(60px) !important;	
-    box-shadow: 0 0 8px 3px black;
-}	
+} 
 
 .justify-content-center.flex-wrap-wrap.padded-top.padded-left.padded-right.padded-bottom {
     backdrop-filter: none !important;
@@ -342,11 +338,11 @@ h2 {
 /* Top menu transparency */
 .skinHeader.focuscontainer-x.skinHeader-withBackground.skinHeader-blurred {
   background:none;
-  background-color:rgba(18,18,18,1) !important;
+  background-color:rgba(0,0,0,0) !important;
 }
 .skinHeader.focuscontainer-x.skinHeader-withBackground.skinHeader-blurred.noHomeButtonHeader {
   background:none;
-  background-color:rgba(18,18,18,1) !important;
+  background-color:rgba(0,0,0,0) !important;
 }
 .playedIndicator {
   background: #5dd000 !important;
@@ -411,24 +407,24 @@ h2 {
 }
 @media all and (max-width: 32em) {
     .itemBackdrop {
-	    width: 100vw !important; 
-	    height: 100vh !important; 
-	    position: fixed; 
-	    filter: brightness(35%);
-	}
+      width: 100vw !important; 
+      height: 100vh !important; 
+      position: fixed; 
+      filter: brightness(35%);
+  }
     .detailPageWrapperContainer {
-	    margin-top: 5em;
-	}
+      margin-top: 5em;
+  }
 }
 .itemProgressBar {
-	height: 2.5px; 
-	background: rgba(215,0,0,1) !important;
+  height: 2.5px; 
+  background: rgba(215,0,0,1) !important;
 }
 .cardIndicators {
-	right: 0.3em; top: 0.3em;
+  right: 0.3em; top: 0.3em;
 }
 .paper-icon-button-light:hover {
-	background-color:  rgba(215,0,0,1) !important;
+  background-color:  rgba(215,0,0,1) !important;
 }
 @media all and (min-width: 100em){
     .cardOverlayFab-primary {
@@ -487,6 +483,21 @@ h2 {
       height: 2.5em;
       margin: 0;
   }
+}
+.listItem {
+    padding: var(--contextmenu-paddingspacing) !important;
+    border-radius: var(--contextmenu-border-radius) !important;
+}
+
+.actionSheet {
+    border-radius: var(--contextmenu-border-radius) !important;
+    background-color: var(--contextmenu-color) !important;
+    -webkit-backdrop-filter: blur(var(--contextmenu-blur-amount)) !important;
+    backdrop-filter: blur(var(--contextmenu-blur-amount)) !important;
+}
+
+.actionsheetListItemBody {
+    padding: var(--contextmenu-paddingspacing) var(--contextmenu-paddingright) var(--contextmenu-paddingspacing) var(--contextmenu-paddingleft) !important;
 }
 /* Remove Media Images */
 .section0 .cardScalable {
@@ -558,7 +569,7 @@ h2 {
   background-size: cover !important;
 }
 /*Theming for the dasboard*/
-.paperList, .visualCardBox {
+.paperList {
   background-color: #000;
   border-radius: 6px;
 }
@@ -585,11 +596,7 @@ h2 {
   .osdHeader {
     background: rgba(0,0,0,0.95) !important;
   }
-  .skinHeader.focuscontainer-x.skinHeader-withBackground.skinHeader-blurred {
-    background: none;
-    background-color: rgba(0, 0, 0, 0.1);
-    box-shadow: none;
-  }
+
   .tmla-mask {
     background-color: rgba(0,0,0,0.1);
   }
@@ -605,11 +612,6 @@ h2 {
   background-color: rgba(0, 0, 0, 0.95);
   box-shadow: none;
   }  
-}
-/* fixed height for the bottom row */
-:root {
-  --element-fixed-top: 95px;
-  --swiper-theme-color: #d70000;
 }
 
 /* Now playing bar in the footer */
@@ -707,12 +709,6 @@ html {
     width: .4em;
     height: .4em;
 }
-::-webkit-scrollbar-track {
-    box-shadow: inset 0 0 6px rgba(0,0,0,.3);
-}
-::-webkit-scrollbar-track-piece {
-    background-color: #3b3b3b !important;
-}
 
 /*red progess bar*/
 .itemProgressBarForeground {
@@ -726,10 +722,16 @@ background: #a30000 !important;
 /*Spinner Button red*/
 .mdl-spinner__layer-1, .mdl-spinner__layer-2, .mdl-spinner__layer-3,
 .mdl-spinner__layer-4 {
-  border-color: var(--spinner-color) !important;
+  border-color: #d70000 !important;
+}
+/*Custom logo for Jellyfin*/
+.pageTitleWithDefaultLogo{
+    background-image: url('https://i.imgur.com/cE02eEP.png') !important;
 }
 
-
+.layout-mobile .pageTitleWithDefaultLogo {
+    background-image: url('https://i.imgur.com/cE02eEP.png') !important;
+}
 /*Interactive Butons Red*/
 .paper-icon-button-light {
     color: #a30000 !important;
@@ -771,10 +773,12 @@ background: #a30000 !important;
   -webkit-box-shadow: 0 0 0 10px rgba(255, 0, 0, 0.26);
   box-shadow: 0 0 0 10px rgba(255, 0, 0, 0.26) !important; }
 }
-*{
+
+ *{
   scrollbar-width: thin;
-  scrollbar-color: #a30000 #202020;
+  scrollbar-color: #a30000 #202020 !important;
 }
+
 .defaultCardBackground2 {
     background-color: #a30000;
 }
@@ -846,7 +850,7 @@ background: #a30000 !important;
  border:0;
  border-radius:.2em;
  font-weight:600;
- -webkit-tap-highlight-color: #d70000 !important;
+ -webkit-tap-highlight-color: rgba(0,0,0,0);
  text-decoration:none;
  line-height:1.35;
  -webkit-transform-origin:center;
@@ -898,4 +902,19 @@ select.emby-select-withcolor:focus {
 }
 .jstree-default .jstree-wholerow-clicked {
  background:#fff !important;
+}
+/*Scroll Bar Color Change*/
+::-webkit-scrollbar-track-piece {
+  background-color: #3b3b3b;
+}
+::-webkit-scrollbar-corner {
+  background-color: #3b3b3b;
+}
+::-webkit-scrollbar-thumb {
+  background: rgba(215,0,0,1) !important;
+  border-radius: var(--rounding);
+}
+
+* {
+  scrollbar-color: rgba(215,0,0,1) #3b3b3b !important;
 }
