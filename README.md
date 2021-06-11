@@ -101,17 +101,17 @@ To use just copy this CSS file contents at the below link into Jellyfin ======> 
 <h3 align="ceter" class="animations">What the UI Looks Like</h3><br>
  
  
- <h3>Home Page UI</h3><br>
+ <h3>Home Page UI V3</h3><br>
 
  ![Home Page UI](https://github.com/DevilsDesigns/Jellyfin-DarkFlix-Theme/blob/20949d868de9bdb7b58ab218018c92d72d5e1584/UI-Proof/v3%20Demo/Home-Highlight.gif)
 
  
- <h3>HighLight UI</h3><br>
+ <h3>HighLight UI V3</h3><br>
  
  ![Highlight UI](https://github.com/DevilsDesigns/Jellyfin-DarkFlix-Theme/blob/20949d868de9bdb7b58ab218018c92d72d5e1584/UI-Proof/v3%20Demo/Highlight%20and%20More%20UI.gif)
 
  
- <h3> More UI Edits</h3><br>  
+ <h3> More UI Edits V3</h3><br>  
  
  ![GitHub More UI](https://github.com/DevilsDesigns/Jellyfin-DarkFlix-Theme/blob/20949d868de9bdb7b58ab218018c92d72d5e1584/UI-Proof/v3%20Demo/UI%20Colors.gif)
  
