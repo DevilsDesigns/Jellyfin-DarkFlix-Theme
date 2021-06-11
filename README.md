@@ -38,7 +38,7 @@
  Red and Black Themed to match<br>
  
  
- based of the Jellyskin Base<br>
+ based of the Jellyskin Base v11<br>
  
  
  Popout Player<br>
@@ -52,8 +52,29 @@
  
  Custom Highlights
  
+     card hover style
+
+    New login background and style
+
+    better support for JF 10.7
+
+    Shows Title text if Logo is missing
+
+    Change backdrop-overlay to uniform box-shadow
+
+    Uses Minimal Looking fonts with the same font-weight as default Jellyfin WEB
+
+    Can be used by just one line.
+
+    Vibrant and modern.
+
+    Has lots of hover animation
+
+    Can easily be customized
+
+    Everything has a depth
  
- & much more
+    & much more
  
  </div>
   
