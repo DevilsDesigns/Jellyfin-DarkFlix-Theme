@@ -103,17 +103,17 @@ To use just copy this CSS file contents at the below link into Jellyfin ======> 
  
  <h3>Home Page UI</h3><br>
 
- ![Home Page UI](/UI-Proof/v3 Demo/Home-Highlight.gif)
+ ![Home Page UI](https://github.com/DevilsDesigns/Jellyfin-DarkFlix-Theme/blob/20949d868de9bdb7b58ab218018c92d72d5e1584/UI-Proof/v3%20Demo/Home-Highlight.gif)
 
  
  <h3>HighLight UI</h3><br>
  
- ![Highlight UI](/UI-Proof/v3 Demo/Highlight and More UI.gif)
+ ![Highlight UI](https://github.com/DevilsDesigns/Jellyfin-DarkFlix-Theme/blob/20949d868de9bdb7b58ab218018c92d72d5e1584/UI-Proof/v3%20Demo/Highlight%20and%20More%20UI.gif)
 
  
  <h3> More UI Edits</h3><br>  
  
- ![GitHub More UI](/UI-Proof/v3 Demo/UI Colors.gif)
+ ![GitHub More UI](https://github.com/DevilsDesigns/Jellyfin-DarkFlix-Theme/blob/20949d868de9bdb7b58ab218018c92d72d5e1584/UI-Proof/v3%20Demo/UI%20Colors.gif)
  
 <br>  
 <div align="center">
