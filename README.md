@@ -101,23 +101,17 @@ To use just copy this CSS file contents at the below link into Jellyfin ======> 
 <h3 align="ceter" class="animations">What the UI Looks Like</h3><br>
  
  
- <h3>Login Page</h3><br>
-  <img src="https://github.com/DevilsDesigns/Jellyfin-DarkFlix-Theme/blob/main/UI-Proof/jellyfin-No-Text-Login.png?raw=true">
+ <h3>Home Page UI</h3><br>
+  [Imgur](https://imgur.com/1p0aekt)
  
  
- <h3>UI</h3><br>
-  <img src="https://github.com/DevilsDesigns/Jellyfin-DarkFlix-Theme/blob/main/UI-Proof/Netflix%20Dark%20Mode%20Theme.gif?raw=true">
+ <h3>HighLight UI</h3><br>
+  [Imgur](https://imgur.com/Gnk27Re)
  
  
- <h3> Video Player UI</h3><br>  
-  <img src="https://github.com/DevilsDesigns/Jellyfin-Netflix-Dark/blob/main/UI-Proof/Netflix%20Dark%20mode%20Theme%202.gif?raw=tr111ue">
+ <h3> More UI Edits</h3><br>  
+  [Imgur](https://imgur.com/9PpCmbX)
  
- 
- <h3>Popout Player & Background UI</h3><br>
- 
- 
-  <img src="https://github.com/DevilsDesigns/Jellyfin-Netflix-Dark/blob/main/UI-Proof/Netflix%20Dark%20Mode%20Theme%203.gif?raw=true">
-</div>
 <br>  
 <div align="center">
 <h4>Contributor</h4>    
