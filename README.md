@@ -102,13 +102,13 @@ To use just copy this CSS file contents at the below link into Jellyfin ======> 
  
  
  <h3>Home Page UI</h3><br>
-   ![Imgur Image](https://imgur.com/1p0aekt)
+   ![Imgur](https://imgur.com/1p0aekt)
  
  <h3>HighLight UI</h3><br>
-   ![Imgur Image](https://imgur.com/Gnk27Re)
+   ![Imgur](https://imgur.com/Gnk27Re)
  
  <h3> More UI Edits</h3><br>  
-   ![Imgur Image](https://imgur.com/9PpCmbX)
+   ![Imgur](https://imgur.com/9PpCmbX)
  
 <br>  
 <div align="center">
