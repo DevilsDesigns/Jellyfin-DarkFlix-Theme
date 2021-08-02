@@ -101,19 +101,43 @@ To use just copy this CSS file contents at the below link into Jellyfin ======> 
 <h3 align="ceter" class="animations">What the UI Looks Like</h3><br>
  
  
- <h3>Home Page UI V3</h3><br>
+ <h3>Home Page UI V4</h3><br>
 
  ![Home Page UI](https://github.com/DevilsDesigns/Jellyfin-DarkFlix-Theme/blob/20949d868de9bdb7b58ab218018c92d72d5e1584/UI-Proof/v3%20Demo/Home-Highlight.gif)
 
  
- <h3>HighLight UI V3</h3><br>
+ <h3>HighLight UI V4</h3><br>
  
  ![Highlight UI](https://github.com/DevilsDesigns/Jellyfin-DarkFlix-Theme/blob/20949d868de9bdb7b58ab218018c92d72d5e1584/UI-Proof/v3%20Demo/Highlight%20and%20More%20UI.gif)
 
  
- <h3> More UI Edits V3</h3><br>  
+ <h3> More UI Edits V4</h3><br>  
  
  ![GitHub More UI](https://github.com/DevilsDesigns/Jellyfin-DarkFlix-Theme/blob/20949d868de9bdb7b58ab218018c92d72d5e1584/UI-Proof/v3%20Demo/UI%20Colors.gif)
+ 
+ <h3> Gridstyle Condensed Actor Cards V4</h3><br>  
+ 
+ ![GitHub More UI](https://github.com/DevilsDesigns/Jellyfin-DarkFlix-Theme/blob/37bdc569a1dccce68ba548d2c102cc8e5e19cd76/UI-Proof/v4%20Demo/Screenshot%202021-08-02%20002608.png)
+ 
+ <h3>TV-Shows Episode Numbers V4</h3><br>  
+ 
+ ![GitHub More UI](https://github.com/DevilsDesigns/Jellyfin-DarkFlix-Theme/blob/latest/UI-Proof/v4%20Demo/Screenshot%202021-08-02%20002521.png)
+ 
+ 
+<h3> Gride Style Episodes V4</h3><br>  
+ 
+ ![GitHub More UI](https://github.com/DevilsDesigns/Jellyfin-DarkFlix-Theme/blob/37bdc569a1dccce68ba548d2c102cc8e5e19cd76/UI-Proof/v4%20Demo/Screenshot%202021-08-02%20002458.png)
+
+<h3> Play Button Hover V4</h3><br>  
+ 
+![GitHub More UI](https://github.com/DevilsDesigns/Jellyfin-DarkFlix-Theme/blob/latest/UI-Proof/v4%20Demo/Screenshot%202021-08-02%20002420.png)
+
+ 
+<h3> Dashboard Active Box Outline V4</h3><br>  
+ 
+![GitHub More UI](https://github.com/DevilsDesigns/Jellyfin-DarkFlix-Theme/blob/37bdc569a1dccce68ba548d2c102cc8e5e19cd76/UI-Proof/v4%20Demo/Screenshot%202021-08-02%20002648.png)
+ 
+ 
  
 <br>  
 <div align="center">
