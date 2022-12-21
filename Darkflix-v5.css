@@ -6022,3 +6022,18 @@ padding:10px!important;
 text-shadow:none;
 width:100%!important
 }
+.mdl-slider-background-lower {
+background-color: #d90000 !important
+}
+.mdl-slider::-moz-range-thumb {
+	-moz-appearance: none;
+	background: #d90000 !important;
+	background-image: none;
+	border: none;
+	border-radius: 50%;
+	box-sizing: border-box;
+	height: 1.08em;
+	-moz-transition: .2s;
+	transition: .2s;
+	width: 1.08em;
+}
