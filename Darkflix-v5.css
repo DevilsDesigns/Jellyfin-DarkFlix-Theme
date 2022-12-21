@@ -6047,3 +6047,14 @@ background-color: #d90000 !important
 element {
 	background-color: #d90000 !important;
 }
+.detailButton-content {
+	-webkit-align-items: center;
+	align-items: center;
+	display: -webkit-flex;
+	display: flex;
+	-webkit-flex-direction: column;
+	flex-direction: column;
+	-webkit-justify-content: center;
+	justify-content: center;
+	color: #d90000 !important;
+}
