@@ -76,6 +76,8 @@
     
  Changed Video Player UI to Netflix Themed
  
+ Floating Music Player
+ 
  & much more
  
  </div>
