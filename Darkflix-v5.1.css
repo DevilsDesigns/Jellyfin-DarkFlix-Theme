@@ -6070,3 +6070,7 @@ element {
 .emby-tab-button:hover {
 	color: #d90000 !important;
 }
+/*Admin Tabs Color*/
+element {
+    background-color: #d90000 !important;
+}
