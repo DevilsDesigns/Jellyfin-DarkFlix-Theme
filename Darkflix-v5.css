@@ -6066,3 +6066,7 @@ element {
 .mdl-spinner__layer-1 {
 	border-color: #d90000 !important;
 }
+/*Tab Highlight*/
+.emby-tab-button:hover {
+	color: #d90000 !important;
+}
