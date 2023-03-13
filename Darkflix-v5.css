@@ -6062,3 +6062,7 @@ element {
 	justify-content: center;
 	color: #d90000 !important;
 }
+/*Spinner*/
+.mdl-spinner__layer-1 {
+	border-color: #d90000 !important;
+}
