@@ -96,8 +96,12 @@ This is Jellyfin Netflix Dark theme with Netflix Sans are used as the default fo
 
 To use just copy this CSS file contents at the below link into Jellyfin ======> Dashboard ======>General ======> Custom CSS Box 
 
-
 [Jellyfin DarkFlix Theme](https://github.com/DevilsDesigns/Jellyfin-DarkFlix-Theme/blob/latest/Darkflix-v5.1.css)
+
+or add this to your css
+
+`@import url("https://cdn.jsdelivr.net/gh/DevilsDesigns/Jellyfin-DarkFlix-Theme/Darkflix-v5.1.css");`
+
 </div>
 
 
